@@ -1,4 +1,4 @@
-# clean_project
+# CounterApp using cubit and freezed pkg
 
 A new Flutter project.
 
