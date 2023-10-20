@@ -13,6 +13,6 @@ A new Flutter project.
 
 ## main takeaways: 
 
-- [x] Clean start-new-Project tree according to Bard and 9mwt customizations 🌲
+- [x]  🌲
 
         
